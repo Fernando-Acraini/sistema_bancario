@@ -51,74 +51,37 @@ A IDE escolhida foi o CLion.
 
 - **Passo 1:** Inicialmente você vai precisar acessar o site do CLion atravez desse link: https://www.jetbrains.com/clion/ e fazer Download do arquivo EXE.
 
+  ![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/4e09f32d-28df-4443-8e93-dac82b6a6a69)
+
+  Irá abrir essa imagem e em seguida clique no botão download.
+
+  ![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/2dd24e46-8cc9-459a-b631-86488fc4d72f)
+
+  E ele irá começar a baixar o arquivo executável.
+
+
+
+
+Bom depois de instalado será necessário fazer uma requisição de licença para poder utilizar a IDE, então você pode compar a licença ou pedir a versão free para estudante.
+
+Clique na opção register, caso não tenha uma conta ainda
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/05f9972d-6f12-4cda-aaf2-cc6fb2526c07)
+
+Depois você será encaminhado para esse site para realizar o cadastro:
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/d5b96562-961f-460a-b7a0-c7c35c28030f)
+
+E depois basta cadastrar suas informaçôes pessoais
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/5c1430b5-b521-461d-8c18-80e357d3dfb1)
+
+Depois da conta ser criada você irá receber por email 
 
 
 
 
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
 
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 
 
-# Autor
 
-Wellington Mazoni de Andrade
 
-https://www.linkedin.com/in/wmazoni
