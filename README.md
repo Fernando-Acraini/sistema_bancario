@@ -73,7 +73,34 @@ Depois você será encaminhado para esse site para realizar o cadastro:
 E depois basta cadastrar suas informaçôes pessoais
 ![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/5c1430b5-b521-461d-8c18-80e357d3dfb1)
 
-Depois da conta ser criada você irá receber por email 
+Depois da conta ser criada você irá receber por email de confirmação e só ira precisar clicar no link.
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/9126c72e-77a9-4d0f-9c8b-ee6f9f52cb93)
+
+Em seguida você será encaminhado para essa tela para escolher a forma de obtenção da licença, escolha a opção "Aply for a free student"
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/a95d8b8d-e702-48be-8bd3-e037eda3a64a)
+
+Em seguida preencha com suas informações institucionais
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/ed63b97d-a0d3-4d97-9404-d2f39eb48495)
+
+Dessa forma você receberá um email sobre a liberação da sua licença
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/dd93fecb-b778-48ef-bd28-47cb39b5f2be)
+
+Acesse seu email e clique no link
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/21c97be7-c131-40e9-a727-9dbd8ca1fa0f)
+
+E pronto sua conta ja foi criada e e sua licença liberada!
+![image](https://github.com/Fernando-Acraini/sistema_bancario/assets/129219437/5116a8a3-f0fd-4cd9-8306-0002c9fd7f9e)
+
+# Executar Aplicação 
+ Depois de o ambiente estar preparado só basta 
+
+
+
+
+
+
+
+
 
 
 
